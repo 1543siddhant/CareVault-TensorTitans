@@ -161,9 +161,9 @@ This repository demonstrates the practical application of advanced AI techniques
 
 For more information or to contribute to this project, please contact:
 
-- **Name:** [Your Name]
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **Name:** Siddhant D. Patil
+- **Email:** siddhantpatil1543@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/siddhant-patil-04587525b/
 
 Contributions, feedback, and suggestions are highly appreciated as we continue to refine and expand these systems for improved public safety.
 
