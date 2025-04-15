@@ -1,4 +1,7 @@
 # Multi-Modal Emergency Response & Incident Analysis Systems
+# Women & Child Safety - Tensor Titans
+
+# Demo ->>>  https://www.youtube.com/watch?v=mpyxZMKK5W4
 
 A comprehensive project suite that leverages computer vision and machine learning to enhance emergency response and incident management. This repository integrates diverse systems—from gesture-based alerts and facial recognition for missing persons to violence detection and incident severity prediction—enabling rapid decision-making in high-pressure situations.
 
